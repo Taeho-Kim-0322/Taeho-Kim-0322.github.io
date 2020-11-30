@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  마크다운_예시
+title:  마크다운__예시
 date:   2020-12-01
 author: 단우아범
 categories: "Blog_Start"
