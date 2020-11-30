@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+title:  마크다운_예시
+date:   2020-12-01
+author: 단우아범
+categories: "Blog_Start"
+tags:	
 cover:  "/assets/instacode.png"
 ---
 
