@@ -18,7 +18,7 @@ cover:  "/assets/instacode.png"
   - 지능형 챗봇 : 자연어 처리를 통해 사용자의 의도를 파악하고 답변하는 챗봇
  
 ## 1. 챗봇 서비스의 구성
-  <img src = "">  
+  <img src = "https://user-images.githubusercontent.com/59005950/100949500-c3489580-354d-11eb-9566-a169131671c6.png">  
   사용자는 다양한 채널을 통해 챗봇에게 말을 걸면, (1) 사용자의 말을 분석함  
   다양한 언어처리 도구를 활용해 (2) 의도를 파악함  
   의도를 파악하면 (3) 미리 준비해둔 대화 시나리오를 확인함  
@@ -30,7 +30,7 @@ cover:  "/assets/instacode.png"
   챗봇 빌더(Chatbot Builder)는 이 기능들의 템플릿을 제공하고, 도메인 기반의 지식만 업데이트 해주면 누구나 대화 서비스를 구현할 수 잇는 솔루션임
  
 ## 2. 챗봇 주요 용어
-  <img src = "">
+  <img src = "https://user-images.githubusercontent.com/59005950/100949504-c479c280-354d-11eb-96b1-771d1c50b277.png">
 - 발화(Utterance)는 사용자가 메신저, AI 스피커 등 인터페이스를 활용해 챗봇에게 건내는 말을 의미합니다. 텍스트, 음성 등 다양한 형식일 수 있습니다.  
 - 채널(Channel)은 앞서 말한 카카오톡, 페이스북 메신저, AI 스피커 등 챗봇에게 자신이 하고자 하는 말을 입력하는 수단을 통칭합니다.  
 - NLU는 Natural Language Understanding의 준말로 앞선 언어지능실무 이론 과정에서 이미 많이 들어보신 말이겠죠?  
@@ -48,3 +48,7 @@ cover:  "/assets/instacode.png"
   챗봇에 역할에 맞는 말을 사용자가 했지만 NLU 분류기의 성능이 떨어져 제대로 된 분류를 하지 못한 케이스가 있을 수 있습니다.  
   Default Fallback에 대한 대응은 챗봇 서비스의 지속성을 높이는 가장 중요한 요소 중 하나로,  
   챗봇 빌더는 해당 Default Fallback 대화를 지속적으로 모니터링 하고 대응할 수 있도록 기능을 제공해야 하고, 챗봇 개발자는 Default Fallback 데이터를 지속적으로 관찰하고 챗봇에게 학습시켜야 합니다.
+  
+  
+## 3. 챗봇 개발자의 업무 Process
+ <img src = "https://user-images.githubusercontent.com/59005950/100949506-c5aaef80-354d-11eb-939f-bed1374af954.png">
