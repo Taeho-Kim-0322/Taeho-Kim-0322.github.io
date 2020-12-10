@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "자바스크립트 : 생활코딩 자바스크립트 기초"
+date:   2020-12-20
+author: 단우아범
+categories: "자바스크립트"
+tags:	
+cover:  "/assets/instacode.png"
+---
+
+# IDE 선택
+  - Sublime text 사용  
+    Tip  
+    - 파일저장 후(.html) sublime text에서 html + tab → 기본구조 완성
+    - body 부분에 script + tab → 기본구조 완성  
+    
+# 기초 문법  
+  - '=='말고 '==='를 사용하자  
+  - && : and, \\ : or  
+  - 
+
+
+# Tip  
+  - 
