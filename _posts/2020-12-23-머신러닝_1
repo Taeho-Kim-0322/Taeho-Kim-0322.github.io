@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "모델별 Parameter 처리"
+date:   2020-12-23
+author: 단우아범
+categories: "머신러닝"
+tags:	
+cover:  "/assets/instacode.png"
+---
+
+
+머신러닝에서 데이터와 분석목표에 맞게 모델을 선택하는 것을 한 후, Parameter를 가공해야 하는 법에 대해 자신이 없다.  
+스케일링을 해야 하는지, 어떤 것으로 해야 하는지, 변수들은 어떻게 만들어 줘야 하는지 등등..  
+아래와 같이 정리해 보자!  
+
+
+# 분류  
+  - Tree 계열  
+    - LGBM  
+      - Object 변수들을 Encoding 할때, one-hot-encoding이든 label_encoding이든 성능 면에서 큰 차이가 없다.
+    
+# 회귀
+  - 
