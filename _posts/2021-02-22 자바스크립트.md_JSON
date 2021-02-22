@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "JSON"
+date:   2021-02-22
+author: 단우아범
+categories: "자바스크립트"
+tags:	
+cover:  "/assets/instacode.png"
+---
+
+브라우저 위에서 작동하는 웹 서버나 어플리케이션의 Client가 Server와 통신하는 방법을 정의한 것이 HTTP임  
+HTTP : Hypertext(문서나 이미지 등 모든 파일을 의미함) Transfer Protocal  
+HTTP는 Client가 Server에게 request할 수 있고, Server가 Client에게 response 할 수 있음  
+
+방법으로는 AJAX가 있음  
+Asynchronous JavaScript And XML의 약자임  
+
+XHR 오브젝트
+
+XML이란 HTML과 같은 마크업 언어 중 하나  
+태그로 표현되어 있음  
+
+XML 뿐만 아니라 JSON 등의 파일 방식으로도 가능함  
+
+fetch() API나 XHR 등을 사용할 수 있음  
+XML을 사용하면 태그가 너무 많이 사용해 사이즈가 커질 뿐 아니라 가독성도 좋지 않아 잘 사용하지 않음  
+대신, JSON을 많이 사용하고 있음  
+
+JSON은
+JavaScript Object Notation의 약자임  
+ECMAScript 3rd 1999에서 만들어진 데이터 포맷
+
+key와 value의 쌍으로 String 타입으로 이루어져 있음  
+
+공부방법  
+object를 serialize해서 string으로 하는지,
+다시 deserialize해서 어떻게 object로 만드는지  
+
+
