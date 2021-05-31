@@ -17,7 +17,7 @@ description:
  
 baseurl: ""
 url: "https://taeho-kim-0322.github.io/"
-cover: "/assets/header_image.jpg"
+cover: "/assets/beach_header.png"
 logo: "/assets/logo.png"
 
 # Build settings
